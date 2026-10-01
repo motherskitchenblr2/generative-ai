@@ -23,7 +23,7 @@ kfp-pipeline-spec==0.6.0
 kfp-server-api==2.4.0
 kubernetes==30.1.0
 numpy==2.2.4
-oauthlib==3.2.2
+oauthlib==4.0.0
 packaging==24.2
 proto-plus==1.26.1
 protobuf==4.25.8
